@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "unreal-engine-mcp-advanced": {
+      "command": "C:/Users/satya/Downloads/unreal-engine-mcp/Python/.venv/Scripts/python.exe",
+      "args": [
+        "-u",
+        "C:/Users/satya/Downloads/unreal-engine-mcp/Python/unreal_mcp_server_advanced.py"
+      ],
+      "cwd": "C:/Users/satya/Downloads/unreal-engine-mcp/Python",
+      "env": {
+        "PYTHONUTF8": "1"
+      }
+    }
+  }
+}
