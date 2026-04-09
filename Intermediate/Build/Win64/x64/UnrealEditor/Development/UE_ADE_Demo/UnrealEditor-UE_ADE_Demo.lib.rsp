@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UE_ADE_Demo.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"S:/GitHub ADE integrator/UE_ADE_Integrator-main/Intermediate/Build/Win64/x64/UE_ADE_DemoEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"S:/GitHub ADE integrator/UE_ADE_Integrator-main/Intermediate/Build/Win64/x64/UnrealEditor/Development/UE_ADE_Demo/Module.UE_ADE_Demo.cpp.obj"
+"S:/GitHub ADE integrator/UE_ADE_Integrator-main/Intermediate/Build/Win64/x64/UnrealEditor/Development/UE_ADE_Demo/UE_ADE_Demo.cpp.obj"
+"S:/GitHub ADE integrator/UE_ADE_Integrator-main/Intermediate/Build/Win64/x64/UnrealEditor/Development/UE_ADE_Demo/Default.rc2.res"
+/OUT:"S:/GitHub ADE integrator/UE_ADE_Integrator-main/Intermediate/Build/Win64/x64/UnrealEditor/Development/UE_ADE_Demo/UnrealEditor-UE_ADE_Demo.lib"

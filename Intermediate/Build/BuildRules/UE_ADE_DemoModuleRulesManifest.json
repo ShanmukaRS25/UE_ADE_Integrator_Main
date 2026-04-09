@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"S:\\GitHub ADE integrator\\UE_ADE_Integrator-main\\Plugins\\UnrealMCP\\Source\\UnrealMCP\\UnrealMCP.Build.cs",
+		"S:\\GitHub ADE integrator\\UE_ADE_Integrator-main\\Intermediate\\Source\\UE_ADE_Demo.Build.cs",
+		"S:\\GitHub ADE integrator\\UE_ADE_Integrator-main\\Intermediate\\Source\\UE_ADE_Demo.Target.cs",
+		"S:\\GitHub ADE integrator\\UE_ADE_Integrator-main\\Intermediate\\Source\\UE_ADE_DemoClient.Target.cs",
+		"S:\\GitHub ADE integrator\\UE_ADE_Integrator-main\\Intermediate\\Source\\UE_ADE_DemoEditor.Target.cs",
+		"S:\\GitHub ADE integrator\\UE_ADE_Integrator-main\\Intermediate\\Source\\UE_ADE_DemoServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

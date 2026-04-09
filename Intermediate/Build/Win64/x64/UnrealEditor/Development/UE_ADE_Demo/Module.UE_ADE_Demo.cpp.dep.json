@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "s:\\github ade integrator\\ue_ade_integrator-main\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ue_ade_demo\\module.ue_ade_demo.cpp",
+        "ProvidedModule": "",
+        "PCH": "s:\\github ade integrator\\ue_ade_integrator-main\\intermediate\\build\\win64\\x64\\ue_ade_demoeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "s:\\github ade integrator\\ue_ade_integrator-main\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ue_ade_demo\\definitions.ue_ade_demo.h",
+            "s:\\github ade integrator\\ue_ade_integrator-main\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ue_ade_demo\\permoduleinline.gen.cpp",
+            "s:\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UE_ADE_Demo.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"UE_ADE_Demo.cpp.obj"
+		]
+	}
+}

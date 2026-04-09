@@ -1,0 +1,24 @@
+{
+	"Targets": [
+		{
+			"Name": "UE_ADE_Demo",
+			"Path": "Source\\UE_ADE_Demo.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UE_ADE_DemoClient",
+			"Path": "Source\\UE_ADE_DemoClient.Target.cs",
+			"Type": "Client"
+		},
+		{
+			"Name": "UE_ADE_DemoEditor",
+			"Path": "Source\\UE_ADE_DemoEditor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "UE_ADE_DemoServer",
+			"Path": "Source\\UE_ADE_DemoServer.Target.cs",
+			"Type": "Server"
+		}
+	]
+}
