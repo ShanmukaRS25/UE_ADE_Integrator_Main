@@ -1,0 +1,11 @@
+{
+	"configurations": [
+		{
+			"name": "Win32",
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "S:\\GitHub ADE integrator\\UE_ADE_Integrator-main\\.vscode\\compileCommands_Default.json"
+		}
+	]
+}
